@@ -26,9 +26,5 @@ The interactive Power BI dashboard presents the key insights visually, utilizing
 ### Conclusion
 This credit card finance dashboard offers actionable insights into customer behavior, transaction patterns, and credit risk management. By leveraging these insights, financial teams can make informed decisions that reduce credit risk, enhance customer retention, and improve overall profitability.
 
-### Appendix
-Data Processing and Cleaning: Detailed explanation of the steps taken to clean and process the data before analysis.
-Dashboard Technical Specifications: Information about the Power BI dashboard structure, visualization types, and data sources.
-Future Recommendations: Suggestions for future improvements and further analysis, such as incorporating real-time data and customer feedback.
 #### Disclaimer
 The insights and recommendations provided in this report are based on the available data. Business conditions, customer behavior, and market trends can shift, and it is recommended to periodically review and update the analysis to maintain alignment with current dynamics.
