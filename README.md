@@ -7,11 +7,11 @@ This dashboard provides an in-depth analysis of credit card finance data, focusi
 
 2. Customer Segmentation Customers are segmented based on demographic factors such as age, income, and region. High-value customers are identified, offering insights into their spending habits and financial behavior.
 
-![credit card transaction report](https://github.com/user-attachments/assets/f1aac15f-a5d8-4998-92d5-76b72e7ee3d2)
-
 3. Revenue Streams The dashboard outlines revenue generated from various sources such as interest charges, annual fees, and late fees. Interest rates contribute significantly to overall revenue, accounting for a large portion of the business's profitability.
 
 4. Credit Risk and Delinquency A key focus is on credit risk management. The dashboard highlights delinquency rates, default risks, and customers with outstanding balances. This information is essential for managing the financial health of the business.
+
+![credit card customer report](https://github.com/user-attachments/assets/fa7fd8f1-6229-454f-9b2f-ab90510fcb62)
 
 5. Payment Behavior The analysis reveals trends in customer payment habits, such as monthly payment rates and the prevalence of late payments. Insights are provided into average balances carried over month-to-month, helping to assess customer risk profiles.
 
@@ -20,7 +20,8 @@ This dashboard provides an in-depth analysis of credit card finance data, focusi
 ### Dashboard Overview
 The interactive Power BI dashboard presents the key insights visually, utilizing charts, graphs, and key performance indicators (KPIs). It is designed to give stakeholders a clear understanding of customer demographics, transaction trends, and financial performance. The dashboard allows for real-time exploration of the data, enabling users to filter and drill down into specific segments for detailed analysis.
 
-![Uploading credit card customer report.png…]()
+
+![credit card transaction report](https://github.com/user-attachments/assets/f1aac15f-a5d8-4998-92d5-76b72e7ee3d2)
 
 ### Conclusion
 This credit card finance dashboard offers actionable insights into customer behavior, transaction patterns, and credit risk management. By leveraging these insights, financial teams can make informed decisions that reduce credit risk, enhance customer retention, and improve overall profitability.
